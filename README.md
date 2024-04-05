@@ -1,1 +1,2 @@
-# Bike-sales-data
+# Bike-Sales-Data
+Explore bike sales data from three unique perspectives with our comprehensive visualization project! Dive into the correlation between bike purchases and average user income, age brackets, and commute distances. Uncover insightful trends and patterns to optimize your marketing strategies and cater to diverse customer segments. Let the data steer your decisions towards maximizing sales and customer satisfaction. Get pedaling towards success with our interactive graphs!
